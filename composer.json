@@ -20,7 +20,7 @@
         "illuminate/http": "^10.0",
         "illuminate/routing": "^10.0",
         "illuminate/support": "^10.0",
-        "laravel/dusk": "^7.0",
+        "laravel/dusk": "^v8.0.0",
         "symfony/http-foundation": "^6.3"
     },
     "require-dev": {
